@@ -1,17 +1,17 @@
 .home{
     color:white;
-    padding-top: 5rem;
-    padding-left: 2rem;
-    padding-right: 1.5rem;
+    padding-top: 7rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 4rem;
+    gap: 5rem;
+    max-width: 1024px;
+    margin:0 auto;
 }
 
 .img_me{
     width: 100%;
-    max-width: 28rem;
+    max-width: 27rem;
 }
 
 .text{
@@ -26,7 +26,7 @@
 }
 
 .hi , .ocupation{
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 .name{

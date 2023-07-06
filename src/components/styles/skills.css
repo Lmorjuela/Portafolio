@@ -1,0 +1,47 @@
+.skills{
+    color:white;
+    max-width: 1024px;
+    margin:0 auto;
+    padding-top: 3rem;
+    display: flex;
+    flex-direction: column ;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.section_skills{
+    max-width: 1024px;
+    margin: 0 auto;
+    display: flex;
+    column-gap: 8rem;
+    row-gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_skills{
+    width: 150px;
+    transition: transform 150ms ease;
+}
+
+.img_skills:hover{
+    transform: scale(1.15);
+}
+
+.container_skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 250px;
+    box-shadow: rgba(4, 221, 249, 0.3) 0px 0px 0px 3px;
+}
+
+.name_skills{
+    padding-top: 1rem;
+    text-align: center;
+}
