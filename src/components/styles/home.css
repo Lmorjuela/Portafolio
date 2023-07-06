@@ -1,0 +1,76 @@
+.home{
+    color:white;
+    padding-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+}
+
+.img_me{
+    width: 100%;
+    max-width: 28rem;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+}
+
+.span_ocupation{
+    color:aqua;
+    font-weight: 800;
+}
+
+.hi , .ocupation{
+    font-size: 2rem;
+}
+
+.name{
+    font-size: 3rem;
+}
+
+.social_network{
+    display: flex;
+    padding-top: 2rem;
+    gap: 5rem;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.bxl-linkedin:hover{
+    color:aqua;
+}
+
+.bxl-github:hover{
+    color:aqua;
+}
+
+.bxl-instagram:hover{
+    color:aqua;
+}
+
+.CV{
+    padding-top: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.download_cv{
+    background-color: aqua;
+    color: black;
+    font-size: 1.3rem;
+    max-width: 200px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    font-weight: 600;
+    box-shadow: 0px 0px 10px 10px rgba(42,223,255,0.43);
+}
