@@ -2,7 +2,7 @@
     color:white;
     max-width: 1024px;
     margin:0 auto;
-    padding-top: 3rem;
+    padding-top: 4.5rem;
     display: flex;
     flex-direction: column ;
     gap: 2rem;
@@ -15,15 +15,15 @@
     max-width: 1024px;
     margin: 0 auto;
     display: flex;
-    column-gap: 8rem;
-    row-gap: 2rem;
+    column-gap: 3rem;
+    row-gap: 3rem;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
 
 .img_skills{
-    width: 150px;
+    width: 120px;
     transition: transform 150ms ease;
 }
 
@@ -36,9 +36,10 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 200px;
-    height: 250px;
-    box-shadow: rgba(4, 221, 249, 0.3) 0px 0px 0px 3px;
+    width: 180px;
+    height: 230px;
+    border-radius: 10px;
+    box-shadow: rgb(0, 221, 255) 0px 0px 0px 3px;
 }
 
 .name_skills{

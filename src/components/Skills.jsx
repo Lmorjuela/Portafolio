@@ -3,7 +3,7 @@ import './styles/skills.css'
 const Skills = () => {
   return (
     <div className="skills" id='skills'>
-        <h1 className='title'>Skills</h1>
+        <h1 className='title_sk'>Skills</h1>
         <div className='section_skills'>
             <div className='container_skills'>
                 <img className='img_skills'src="/css.png" alt="" />
@@ -28,6 +28,14 @@ const Skills = () => {
             <div className='container_skills'>
                 <img className='img_skills'src="/github1.jpeg" alt="" />
                 <h3 className='name_skills'>Github</h3>
+            </div>
+            <div className='container_skills'>
+                <img className='img_skills'src="/excel1.png" alt="" />
+                <h3 className='name_skills'>Microsoft Excel</h3>
+            </div>
+            <div className='container_skills'>
+                <img className='img_skills'src="/sap1.jpeg" alt="" />
+                <h3 className='name_skills'>SAP ERP</h3>
             </div>
         </div>
     </div>

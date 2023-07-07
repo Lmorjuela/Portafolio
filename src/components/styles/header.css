@@ -19,6 +19,7 @@ header{
     display: flex;
     justify-items: center;
     align-items: center;
+    box-shadow: rgba(21, 209, 238, 0.566) 0px 0px 0px 3px;
 }
 
 .navbar{
