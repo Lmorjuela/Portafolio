@@ -3,6 +3,7 @@ import './styles/home.css'
 const Home = () => {
     return (
         <>
+        <div id='home2'>
             <div className='home' id='home'>
                 <div className='text'>
                     <h2 className='hi'>Hi! My name is </h2>
@@ -28,6 +29,7 @@ const Home = () => {
                 </div>
 
             </div>
+        </div>
         </>
     )
 }

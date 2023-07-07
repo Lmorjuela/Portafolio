@@ -1,3 +1,40 @@
-.footer{
-    background-color: red;
+.footer {
+    box-shadow: rgba(21, 209, 238, 0.566) 0px 0px 0px 3px;
+    padding: 1rem 0 1rem 0;
+}
+
+.title_footer {
+    color: aqua;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.4rem;
+}
+
+.icons {
+    color: white;
+    display: flex;
+    padding-top: 0.5rem;
+    gap: 5rem;
+    font-size: 1.5rem;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
+
+.bxl-linkedin:hover {
+    color: aqua;
+}
+
+.bxl-github:hover {
+    color: aqua;
+}
+
+.bx-home:hover {
+    color: aqua;
+}
+
+.autor{
+    padding-top: 0.5rem;
+    color: white;
+    text-align: center;
 }

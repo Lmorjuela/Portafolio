@@ -23,7 +23,7 @@ const Projects = () => {
 
                 <div className='container_projects'>
                     <div className='header'>
-                        <h2 className='title_pr1'>Galleta de la fortuna</h2>
+                        <h2 className='title_pr1'>Fortune Cookie</h2>
                         <img className='img_pr' src="/project2.png" alt="" />
                     </div>
                     <div className='description_projects'>
